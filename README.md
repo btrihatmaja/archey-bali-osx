@@ -3,7 +3,7 @@ archey-bali-osx
 
 This is archey for OSX as a support for "Bali Tolak Reklamasi Campaign"
 
-!['Example'](https://raw.github.com/joshfinnie/archey-osx/master/screenshot.png)
+!['Example'](https://raw.githubusercontent.com/btrihatmaja/archey-bali-osx/master/archey-bali.png)
 
 Installation
 ------------
@@ -21,6 +21,15 @@ Option
 Thanks to 
 ---------
 [archey-osx](https://github.com/obihann/archey-osx)
+
+FAQ
+---
+- Is that a ship?
+ - No, It is Balinese Island
+- What is "Bali Tolak Reklamasi" in english?
+ - Bali says No to reclamation
+- What is Reclamation?
+ - Land reclamation, usually known as reclamation, and also known as land fill (not to be confused with a landfill), is the process of creating new land from ocean, riverbeds, or lake. The land reclaimed is known as reclamation ground or land fill.
 
 License
 -------
