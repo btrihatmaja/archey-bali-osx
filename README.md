@@ -3,7 +3,7 @@ archey-bali-osx
 
 This is archey for OSX as a support for "Bali Tolak Reklamasi Campaign"
 
-!['Example'](https://raw.githubusercontent.com/btrihatmaja/archey-bali-osx/master/archey-bali.png)
+!['Example'](https://raw.githubusercontent.com/btrihatmaja/archey-bali-osx/master/screenshot.png)
 
 Installation
 ------------
