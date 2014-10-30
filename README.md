@@ -9,9 +9,13 @@ Installation
 ------------
 	$ git clone https://github.com/btrihatmaja/archey-bali-osx.git
 	$ cd archey-bali-osx/
-	$ sudo chmod +x bin/archey-bali
+	$ sudo chmod +x bin/archey-bali 
 	$ ln -s $PWD/bin/archey-bali /usr/local/bin/archey
 	$ archey
+
+To use bigger map:
+	$ sudo chmod +x bin/archey-bali-big
+	$ ln -s $PWD/bin/archey-bali-big /usr/local/bin/archey
 
 Option
 -----
