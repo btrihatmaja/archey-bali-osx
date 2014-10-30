@@ -15,8 +15,10 @@ Installation
 	$ archey
 
 To use bigger map:
+	```
 	$ sudo chmod +x bin/archey-bali-big
 	$ ln -s $PWD/bin/archey-bali-big /usr/local/bin/archey
+	```
 
 Option
 -----
